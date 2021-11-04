@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Friendly UI/UX",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "felixronaldi@gmail.com",
+    "phone": "+628988349310",
+    "github":"https://github.com/felixronaldi",
+    "project":"https://github.com/felixronaldi",
+    "address":{
+      "street":"Allogio",
+      "city":"Tangerang",
+      "state":"Banten",
+      "zip": "Indonesia"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/RonaldyFelix",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/felixronaldi_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/felixronaldi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/felixronaldi/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/felixronaldi",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"This is My Programming Skill.",
+    "education":[
+      {
+        "school":"Multimedia Nusantara University",
+        "degree":"Information Technology",
+        "graduated":"Agust 2021",
+        "description":"Talent for logic made me grow since junior high school, I am good at math and like to solve things, I took my life path in programming, because of the mindset that I instilled that I will always succeed."
+      }
+    ],
+    "work":[
+      {
+        "company":"Emporia Digital Raya (Graha Anabatic)",
+        "title":"Software Engineer (Front-End Developer)",
+        "years":"June 2021 - Present",
+        "description":"Working on several Company's Main Projects called IKI Mitra and several Supporting Projects of the Main Project, as well as solving several problems that occurred."
+      },
+      {
+        "company":"Bisa Ekspor",
+        "title":"Operational Manager & Community Relation",
+        "years":"September 2020 - March 2021",
+        "description":"Manage the overall course of business operations and become a regulator of community relations of application users."
+      },
+      {
+        "company":"Bisa Ekspor",
+        "title":"Business Analyst",
+        "years":"May 2020 - September 2020",
+        "description":"Make the entire business plan of the newly built company, as well as organize and manage the business and employees."
+      },
+      {
+        "company":"Tulang Punggung Kreasi Indonesia",
+        "title":"Project Manager & Software Engineer",
+        "years":"May 2020 - July 2020",
+        "description":"Make the entire application design and application work, find new ideas for application improvisation, and develop the application."
+      },
+      {
+        "company":"Keik Cafe",
+        "title":"Manager & Head Barista",
+        "years":"February 2020 - May 2020",
+        "description":"Manage all barista and cafe service, calibrate coffee, manage supply and spare materials and play an important role in the cafe."
+      },
+      {
+        "company":"From Our Friends Coffe Shop",
+        "title":"Head Barista & Cooker",
+        "years":"January 2019 - February 2020",
+        "description":"Assisting the cooking department due to staff shortages, managing all the barista and cafe service, calibrating coffee, managing supplies and spare ingredients and playing an important role in the cafe."
+      },
+      {
+        "company":"PT. Sari Coffee Indonesia",
+        "title":"Barista",
+        "years":"October 2018 - December 2018",
+        "description":"Barista and make coffee and do the best service."
+      }
+    ],
+    "skills":[
+      {
+        "name":"UI/UX",
+        "level":"95%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"ERP",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bisa Ekspor Website",
+        "category":"Platform for people to learn export",
+        "image":"01.jpg",
+        "url":"https://bisaekspor.com/"
+      },
+      {
+        "title":"Bisa Ekspor Application",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
